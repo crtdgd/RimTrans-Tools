@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <s:Double x:Key="AddModWindowHeight">600</s:Double>
+  <s:String x:Key="RimWorldInstallDir">C:\Program Files (x86)\Steam\steamapps\common\RimWorld</s:String>
+  <s:Double x:Key="OptionsWindowHeight">600</s:Double>
+  <s:Double x:Key="MainWindowWidth">1080</s:Double>
+  <s:Double x:Key="OptionsWindowWidth">971</s:Double>
+  <WindowState x:Key="MainWindowState">Normal</WindowState>
+  <s:String x:Key="WorkshopModsDir">C:\Program Files (x86)\Steam\steamapps\workshop\content\294100</s:String>
+  <s:Double x:Key="AddModWindowWidth">971</s:Double>
+  <s:Double x:Key="MainWindowHeight">667</s:Double>
+  <s:Boolean x:Key="Selected_Japanese">True</s:Boolean>
+</ResourceDictionary>
